@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default function FavoritesScreen() {\n  return;\n}","map":{"version":3,"names":["FavoritesScreen"],"sources":["C:/xampp/htdocs/navigation/screens/FavoritesScreen.js"],"sourcesContent":["export default function FavoritesScreen() {\r\n    return\r\n}"],"mappings":"AAAA,eAAe,SAASA,eAAT,GAA2B;EACtC;AACH"},"metadata":{},"sourceType":"module"}
